@@ -184,3 +184,5 @@ if __name__ == "__main__":
     print("\nDettagli prestiti effettuati:")
     for prestito in prestiti_effettuati:
         prestito.dettagli()
+
+
