@@ -1,0 +1,6 @@
+metric,value
+Righe sintetiche identiche a righe reali,0.0
+Righe duplicate nel dataset sintetico,0.0
+Distanza minima sintetico-reale,0.04617
+Distanza media sintetico-reale,0.138773
+Righe molto vicine sotto soglia,1.0

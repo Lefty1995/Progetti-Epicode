@@ -1,1 +1,26 @@
-.gitattributes
+# Python
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+*.env
+
+# Secrets and credentials
+secrets.json
+credentials.json
+token.json
+*.key
+
+# Colab / notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
